@@ -1,2 +1,7 @@
 --color
+<<<<<<< HEAD
 --format documentation
+=======
+--format documentation
+--fail-fast
+>>>>>>> 50c8fa65ca86df92b742b6fb68ee690812367ed9
